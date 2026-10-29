@@ -31,6 +31,8 @@ export default function App() {
           </div>
         </div>
 
+        <div></div>
+
         {/* Interactive Button */}
         <button className="mt-8 w-full transform rounded-xl bg-linear-to-r from-teal-500 to-emerald-500 py-3 text-center text-sm font-semibold tracking-wide text-slate-950 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-emerald-500/20 active:translate-y-0">
           Hover & Click Me
